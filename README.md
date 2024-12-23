@@ -21,7 +21,6 @@ This is a console application to check hotel room availability for specific date
 
  **Clone the Repository**
  
- Build the Project
+ Build and Run the Project
  - dotnet build
- Run the Program
  - dotnet run
